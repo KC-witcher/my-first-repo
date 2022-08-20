@@ -1,0 +1,10 @@
+# Local env files
+.env*
+
+# Files
+*.css
+*.js
+.DS_Store
+
+# Misc
+.vscode
