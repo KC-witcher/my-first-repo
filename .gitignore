@@ -4,6 +4,7 @@
 # Files
 *.css
 *.js
+.DS_Store
 
 # Misc
 .vscode
